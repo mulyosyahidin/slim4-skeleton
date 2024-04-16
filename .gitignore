@@ -1,0 +1,9 @@
+/vendor
+/.fleet
+/.idea
+/.vscode
+.env
+.phpunit.result.cache
+/.phpunit.cache
+/docker/mysql/data
+/storage/keys/*
